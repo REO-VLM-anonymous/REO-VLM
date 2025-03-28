@@ -79,8 +79,8 @@ REO-Instruct is a large-scale multimodal benchmark tailored for scientific analy
 #### 📝 Text Annotations
 
 - Training [[Stage 1](https://drive.google.com/file/d/1cuv4B5nfYXWaozNu3Pxe3FIsiPQYwZdL/view?usp=sharing)] [[Stage 2](https://drive.google.com/file/d/1UIs3lCun1l5DXbj58gJhnw2srBwG9k9E/view?usp=sharing)]
-- [Validation](TODO\:insert-annotation-val-link)
-- [Test][📥 Download](https://drive.google.com/drive/folders/1OoQDcRyuT4npc6uxHoKi-NxBMj3MSBT9?usp=sharing)
+- Validation [📥 Download](https://drive.google.com/drive/folders/1OoQDcRyuT4npc6uxHoKi-NxBMj3MSBT9?usp=sharing)
+- Test [📥 Download](https://drive.google.com/drive/folders/1OoQDcRyuT4npc6uxHoKi-NxBMj3MSBT9?usp=sharing)
 
 
 
