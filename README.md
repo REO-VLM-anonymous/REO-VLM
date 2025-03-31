@@ -72,13 +72,13 @@ REO-Instruct is a large-scale multimodal benchmark tailored for scientific analy
 
 #### 🖼️ Earth Observation Data [📥 Download All](https://pan.baidu.com/s/1CZZRzqgDsbZBCc3vfgoh4w?pwd=8efp) (extraction code: `8efp`)
 
-- Training (extraction code: `5vw6`) [📥 Download]([https://drive.google.com/drive/folders/1H9KaoaMYBXH3lNpHD9_E_7rboTNBMosg?usp=sharing])
+- Training (extraction code: `5vw6`) [📥 Download](https://pan.baidu.com/s/1IQyNrzVverciNmqjWtsnrg?pwd=5vw6)
 - Validation (extraction code: `gwjy`) [📥 Download](https://pan.baidu.com/s/16FTPJt4zcAxq767qApH4ww?pwd=gwjy)
 - Test (extraction code: `y7gv`) [📥 Download](https://pan.baidu.com/s/1ABSxkBR_2s7_MUz42JoF1g?pwd=y7gv)
 
 #### 📝 Text Annotations
 
-- Training [[Stage 1](https://drive.google.com/file/d/1cuv4B5nfYXWaozNu3Pxe3FIsiPQYwZdL/view?usp=sharing)] [[Stage 2](https://drive.google.com/file/d/1UIs3lCun1l5DXbj58gJhnw2srBwG9k9E/view?usp=sharing)]
+- Training [[Stage 1](https://drive.google.com/drive/folders/1H9KaoaMYBXH3lNpHD9_E_7rboTNBMosg?usp=sharing)] [[Stage 2](https://drive.google.com/file/d/1UIs3lCun1l5DXbj58gJhnw2srBwG9k9E/view?usp=sharing)]
 - Validation [📥 Download](https://drive.google.com/drive/folders/1d8bKSJXf21nOFUN9GCUZsMk49U25_hQs?usp=sharing)
 - Test [📥 Download](https://drive.google.com/drive/folders/1OoQDcRyuT4npc6uxHoKi-NxBMj3MSBT9?usp=sharing)
 
