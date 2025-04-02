@@ -104,7 +104,7 @@ REO-VLM is a unified VLM architecture that bridges visual understanding and nume
 
 - Proposes a **reverse projection module** to fuse domain knowledge from language back into vision
 
-- Introduces a custom-designed **regression head** optimized for EO tasks
+- Introduces a custom-designed **regression head** optimized for EO regresion task
 
 - Incorporates a **Spectral Recombination Strategy** for easier multimodal fusion
 
