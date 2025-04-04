@@ -148,12 +148,6 @@ We gratefully acknowledge the authors of **AGBD: A Global-scale Biomass Dataset*
 Please also consider citing the following works if you use REO-Instruct data or biomass-related imagery:
 
 ```bibtex
-@article{xue2024reo,
-  title={REO-VLM: Transforming VLM to Meet Regression Challenges in Earth Observation},
-  author={Xue, Xizhe and Wei, Guoting and Chen, Hao and Zhang, Haokui and Lin, Feng and Shen, Chunhua and Zhu, Xiao Xiang},
-  journal={arXiv preprint arXiv:2412.16583},
-  year={2024}
-}
 
 @article{sialelli2024agbd,
   title   = {AGBD: A Global-scale Biomass Dataset},
