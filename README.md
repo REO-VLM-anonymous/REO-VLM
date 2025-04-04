@@ -145,7 +145,7 @@ We gratefully acknowledge the authors of **AGBD: A Global-scale Biomass Dataset*
 
 - [Ghjulia Sialelli](mailto\:gsialelli@ethz.ch), Torben Peters, Jan D. Wegner, Konrad Schindler
 
-Please also consider citing the following works if you use REO-Instruct data or biomass-related imagery:
+Please also consider citing the following work if you use REO-Instruct data or biomass-related imagery:
 
 ```bibtex
 
